@@ -1,0 +1,18 @@
+
+# #
+integer     boolean     real REAL       q2345_t
+{  } ;;
+if  else endif   000.0000  a_2__3x   
+return put get while 
+ ==      !=     >     | <   <=  =>        * / +-+
+true    false            
+True             WHILE 1234   /* line comment */
+
+/* 
+   comment1
+   comment2
+*/ 
+
+a1234   asd23_
+$% .123   123.
+

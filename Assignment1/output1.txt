@@ -1,0 +1,42 @@
+"#" ==> SEPARATOR
+"#" ==> SEPARATOR
+"integer" ==> KEYWORD
+"boolean" ==> KEYWORD
+"real" ==> KEYWORD
+"REAL" ==> IDENTIFIER
+"q2345_t" ==> IDENTIFIER
+"{" ==> SEPARATOR
+"}" ==> SEPARATOR
+";" ==> SEPARATOR
+";" ==> SEPARATOR
+"if" ==> KEYWORD
+"else" ==> KEYWORD
+"endif" ==> KEYWORD
+"000.0000" ==> REAL
+"a_2__3x" ==> IDENTIFIER
+"return" ==> KEYWORD
+"put" ==> KEYWORD
+"get" ==> KEYWORD
+"while" ==> KEYWORD
+"==" ==> OPERATOR
+"!=" ==> OPERATOR
+">" ==> OPERATOR
+"|" ==> INVALID TOKEN
+"<" ==> OPERATOR
+"<=" ==> OPERATOR
+"=>" ==> OPERATOR
+"*" ==> OPERATOR
+"/" ==> OPERATOR
+"+" ==> OPERATOR
+"-" ==> OPERATOR
+"+" ==> OPERATOR
+"true" ==> KEYWORD
+"false" ==> KEYWORD
+"True" ==> IDENTIFIER
+"WHILE" ==> IDENTIFIER
+"1234" ==> INTEGER
+"a1234" ==> IDENTIFIER
+"asd23_" ==> IDENTIFIER
+"$%" ==> INVALID TOKEN
+".123" ==> INVALID TOKEN
+"123." ==> INVALID TOKEN

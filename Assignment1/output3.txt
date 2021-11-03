@@ -1,0 +1,10 @@
+"while" ==> KEYWORD
+"(" ==> SEPARATOR
+"fahr" ==> IDENTIFIER
+"<=" ==> OPERATOR
+"upper" ==> IDENTIFIER
+")" ==> SEPARATOR
+"a" ==> IDENTIFIER
+"=" ==> OPERATOR
+"23.00" ==> REAL
+";" ==> SEPARATOR
